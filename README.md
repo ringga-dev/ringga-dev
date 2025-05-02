@@ -6,9 +6,12 @@
 
 I’m a **passionate Android Developer** from **Indonesia 🇮🇩** with a deep focus on **Kotlin**, **Jetpack Compose**, and creating **scalable, user-friendly mobile applications**. Currently, I'm a student at **Politeknik Kampar, Riau** pursuing a **D3 in Technology Information**.
 
-- 🌱 I’m constantly learning and experimenting with the latest tools and technologies in mobile development.
-- 💼 Currently exploring **advanced Android architecture**, **Kotlin Coroutines**, **Jetpack libraries**, and **Firebase**.
-- 🎯 Goal: Build mobile applications that provide **seamless user experiences** and **robust performance**.
+- 💼 I’m currently learning at **Politeknik Kampar, Riau**  
+- 💡 I’m interested in **Android Development**, **Jetpack Compose**, **Kotlin**, and **Clean Architecture**  
+- 🌱 Currently learning advanced **Jetpack libraries**, **CI/CD**, and **modularization**  
+- 🤝 I’m looking to collaborate on **open-source mobile projects**  
+- 📫 Reach me on **Instagram [@ringga_dev](https://instagram.com/ringga_dev)** or visit my [Website](https://ringga-dev.github.io)  
+- 🛠️ Tools & Languages: `Kotlin`, `Java`, `Flutter`, `Jetpack Compose`, `Room`, `Hilt`, `Firebase`, `Git`, `Figma`
 
 ---
 
@@ -63,29 +66,43 @@ An Android app that displays guitar chords for songs from the band Marjinal, usi
 ## 📊 GitHub Stats
 
 <p align="center">
-  **@ringga-dev**
+  <b>@ringga-dev</b><br/>
   <img src="https://github-readme-stats.vercel.app/api?username=ringga-dev&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" width="100%" />
-  **@ringga-bf**
-    <img src="https://github-readme-stats.vercel.app/api?username=ringga-bf&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" width="100%" />
 </p>
 
 <p align="center">
-  **@ringga-dev**
+  <b>@ringga-bf</b><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ringga-bf&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" width="100%" />
+</p>
+
+---
+
+## 🔥 GitHub Streaks
+
+<p align="center">
+  <b>@ringga-dev</b><br/>
   <img src="https://streak-stats.demolab.com?user=ringga-dev&theme=tokyonight" width="100%" />
-  *@ringga-bf*
-    <img src="https://streak-stats.demolab.com?user=ringga-bf&theme=tokyonight" width="100%" />
 </p>
 
 <p align="center">
-  **@ringga-dev**
+  <b>@ringga-bf</b><br/>
+  <img src="https://streak-stats.demolab.com?user=ringga-bf&theme=tokyonight" width="100%" />
+</p>
+
+---
+
+## 🌐 Most Used Languages
+
+<p align="center">
+  <b>@ringga-dev</b><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ringga-dev&layout=compact&theme=tokyonight" width="100%" />
-  **@ringga-bf**
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ringga-bf&layout=compact&theme=tokyonight" width="100%" />
 </p>
 
 <p align="center">
-
+  <b>@ringga-bf</b><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ringga-bf&layout=compact&theme=tokyonight" width="100%" />
 </p>
+
 
 ---
 
