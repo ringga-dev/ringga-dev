@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="img/github-header-image.png" width="300" alt="coding animation"/>
+  <img src="img/github-header-image.png" width="300" alt="coding animation" width="100%"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Ringga Septia Pribadi</h1>
