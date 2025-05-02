@@ -63,23 +63,23 @@ An Android app that displays guitar chords for songs from the band Marjinal, usi
 ## 📊 GitHub Stats
 
 <p align="center">
-  *@ringga-dev*
+  **@ringga-dev**
   <img src="https://github-readme-stats.vercel.app/api?username=ringga-dev&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" width="100%" />
-  *@ringga-bf*
+  **@ringga-bf**
     <img src="https://github-readme-stats.vercel.app/api?username=ringga-bf&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" width="100%" />
 </p>
 
 <p align="center">
-  *@ringga-dev*
+  **@ringga-dev**
   <img src="https://streak-stats.demolab.com?user=ringga-dev&theme=tokyonight" width="100%" />
   *@ringga-bf*
     <img src="https://streak-stats.demolab.com?user=ringga-bf&theme=tokyonight" width="100%" />
 </p>
 
 <p align="center">
-  *@ringga-dev*
+  **@ringga-dev**
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ringga-dev&layout=compact&theme=tokyonight" width="100%" />
-  *@ringga-bf*
+  **@ringga-bf**
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ringga-bf&layout=compact&theme=tokyonight" width="100%" />
 </p>
 
