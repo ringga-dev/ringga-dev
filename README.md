@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="img/github-header-image.png" width="300" alt="coding animation"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Ringga Septia Pribadi</h1>
 <h3 align="center">🏗️ Android Developer | 📱 Mobile Engineer | 🎓 Student at Politeknik Kampar</h3>
 
