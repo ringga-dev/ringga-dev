@@ -42,7 +42,7 @@ I’m a **passionate Android Developer** from **Indonesia 🇮🇩** with a deep
 - **Politeknik Kampar, Riau** — D3 Teknologi Informasi *(2022 - Present)*
 - **Google Android Developer Certification** *(Planned)*
 - **Courses**:
-  - Kotlin for Android Developers – [Dicoding](https://www.dicoding.com/)
+  - Kotlin for Android Developers 
   - Jetpack Compose Pathway – [Google Developers](https://developer.android.com/)
 
 ---
