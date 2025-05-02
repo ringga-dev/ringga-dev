@@ -2,81 +2,61 @@
   <img src="img/github-header-image.png" width="100%" alt="coding animation" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Ringga Septia Pribadi</h1>
-<h3 align="center">🏗️ Android Developer | 📱 Mobile Engineer | 🎓 Student at Politeknik Kampar, Riau</h3>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding animation"/>
-</p>
-
----
-
 ## 👨‍💻 About Me
 
-I’m an enthusiastic Android developer from Indonesia 🇮🇩 who loves building scalable and clean mobile apps.  
-Currently deep-diving into **Jetpack Compose**, **Kotlin**, and **modular app development**.
+I’m a **passionate Android Developer** from **Indonesia 🇮🇩** with a deep focus on **Kotlin**, **Jetpack Compose**, and creating **scalable, user-friendly mobile applications**. Currently, I'm a student at **Politeknik Kampar, Riau** pursuing a **D3 in Technology Information**.
 
-🌟 **Passionate about**:
-- Writing clean, testable, and reusable code
-- Crafting elegant user interfaces
-- Building backend systems for mobile integration
-
-🧠 **Currently learning**:
-- Advanced Kotlin Coroutines & Flow
-- Clean Architecture + Modularization
-- Firebase Auth, Firestore, Realtime DB
-- REST APIs with Node.js & Express
-
-💬 **I often work with**:
-- MVVM + Repository pattern
-- Offline-first mobile apps
-- Firebase push notifications
-- Custom Composables & animation
+- 🌱 I’m constantly learning and experimenting with the latest tools and technologies in mobile development.
+- 💼 Currently exploring **advanced Android architecture**, **Kotlin Coroutines**, **Jetpack libraries**, and **Firebase**.
+- 🎯 Goal: Build mobile applications that provide **seamless user experiences** and **robust performance**.
 
 ---
 
 ## 🧰 Tech Stack
 
-### 📱 Mobile
-`Kotlin`, `Jetpack Compose`, `ViewModel`, `LiveData`, `XML`, `Flutter`, `Dart`, `Room`, `Retrofit`, `DataStore`, `Hilt`
+### 📱 **Mobile Development**
+- **Kotlin** & **Jetpack Compose** for UI/UX design and architecture
+- **MVVM** (Model-View-ViewModel) for clean architecture
+- **Room** for local databases
+- **Retrofit**, **Gson**, **OkHttp** for networking
+- **Firebase** (Auth, Firestore, Real-time DB)
+- **Hilt** for Dependency Injection
+- **Flutter** for cross-platform development
 
-### 🛠 Backend & Web
-`Node.js`, `Express.js`, `JavaScript (ES6+)`, `MySQL`, `Supabase`, `RESTful APIs`
+### 🔧 **Backend Development**
+- **Node.js** & **Express.js** for server-side logic
+- **MongoDB** & **MySQL** for databases
+- **REST APIs** with JWT Authentication
+- **Docker** for containerization
 
-### ⚙️ Tools
-`Git`, `GitHub`, `Postman`, `Insomnia`, `Android Studio`, `VS Code`, `Figma`, `Zeplin`
+### ⚙️ **Tools & Others**
+- **Android Studio**, **IntelliJ IDEA**, **VS Code**
+- **Git**, **GitHub**, **GitLab**
+- **Postman** for API testing
+- **Figma**, **Zeplin** for UI/UX design
 
 ---
 
 ## 🎓 Education & Certification
 
-- 🎓 **Politeknik Kampar** — D3 Teknologi Informasi (2022 - Present)
-- 📜 *Coming Soon*: Google Android Developer Certification
-- 💡 **Online Courses**:
+- **Politeknik Kampar, Riau** — D3 Teknologi Informasi *(2022 - Present)*
+- **Google Android Developer Certification** *(Planned)*
+- **Courses**:
   - Kotlin for Android Developers – [Dicoding](https://www.dicoding.com/)
   - Jetpack Compose Pathway – [Google Developers](https://developer.android.com/)
 
 ---
 
-## 🌍 Languages I Speak
-
-- 🇮🇩 Bahasa Indonesia (Native)
-- 🇺🇸 English (Professional Working Proficiency)
-
----
-
-## 🧩 Featured Projects
+## 💡 Personal Projects
 
 ### 📲 [FinePhone](https://github.com/ringga-dev/FinePhone)
-> A smart phone manager app with device insights and system controls — built using Jetpack Compose and MVVM.
+A modern Android app built with **Jetpack Compose** to manage phone information and settings. The app uses **MVVM** architecture for clean separation of concerns and follows Android best practices.
 
-### 🏨 [HotelQ](https://github.com/ringga-dev/hotel-q_server)
-> Hotel management system with multi-company support and booking APIs, built with Node.js & MySQL.
+### 🏨 [HotelQ Server](https://github.com/ringga-dev/hotel-q_server)
+A **multi-company hotel management system** with booking features, designed using **Node.js**, **MySQL**, and **JWT Authentication** for a secure, scalable system.
 
-### 🎸 [Chord App – Marjinal](https://github.com/ringga-dev)
-> HTML-based chord library rendered in Jetpack Compose with WebView integration.
-
-> 📌 *Pin more awesome projects on your profile to highlight them!*
+### 🎸 [Marjinal Chord App](https://github.com/ringga-dev)
+An Android app that displays guitar chords for songs from the band Marjinal, using **Jetpack Compose** and **HTML rendering** for chord visualization.
 
 ---
 
@@ -96,30 +76,30 @@ Currently deep-diving into **Jetpack Compose**, **Kotlin**, and **modular app de
 
 ---
 
-## 🤝 Let’s Collaborate
+## 🤝 Let's Collaborate
 
-I'm open to collaborating on:
-- Open-source Android libraries
-- Full-stack app development (mobile + backend)
-- Real-world Flutter or Kotlin apps
+I’m open to collaboration on:
+- **Open-source mobile projects**
+- **Cross-platform app development**
+- **Back-end integration for mobile apps**
 
-📬 Reach out via [Instagram](https://instagram.com/ringga_dev) or email at **ringgadev@gmail.com**
+📬 You can reach me via:
+- **Instagram**: [@ringga_dev](https://instagram.com/ringga_dev)
+- **Email**: [ringgadev@gmail.com](mailto:ringgadev@gmail.com)
 
 ---
 
-## 📫 Contact Me
+## 💬 Let's Connect
 
 <p align="center">
-  <a href="mailto:ringgadev@gmail.com"><img src="https://img.shields.io/badge/Gmail-%2382004a?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://instagram.com/ringga_dev"><img src="https://img.shields.io/badge/Instagram-%2382004a?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://ringga-dev.github.io"><img src="https://img.shields.io/badge/Portfolio-%2382004a?style=for-the-badge&logo=githubpages&logoColor=white"/></a>
+  <a href="mailto:ringgadev@gmail.com"><img src="https://img.shields.io/badge/Gmail-%2382004a?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" /></a>
+  <a href="https://instagram.com/ringga_dev"><img src="https://img.shields.io/badge/Instagram-%2382004a?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" /></a>
+  <a href="https://ringga-dev.github.io"><img src="https://img.shields.io/badge/Portfolio-%2382004a?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio Badge" /></a>
 </p>
 
 ---
 
-## ✨ Favorite Quote
+## 🎯 Favorite Quote
 
-> "First, solve the problem. Then, write the code." – John Johnson  
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House
-
----
+> “Good code is its own best documentation.” – Steve McConnell  
+> “Programming is like writing a book, but if you miss out one important detail, the whole story makes no sense.” – Unknown
