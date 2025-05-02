@@ -74,6 +74,10 @@ An Android app that displays guitar chords for songs from the band Marjinal, usi
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ringga-dev&layout=compact&theme=tokyonight" width="100%" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ringga-dev&layout=compact&theme=tokyonight" width="100%" />
+</p>
+
 ---
 
 ## 🤝 Let's Collaborate
