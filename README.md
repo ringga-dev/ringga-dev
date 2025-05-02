@@ -75,7 +75,7 @@ An Android app that displays guitar chords for songs from the band Marjinal, usi
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ringga-dev&layout=compact&theme=tokyonight" width="100%" />
+  [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 ---
