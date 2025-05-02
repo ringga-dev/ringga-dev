@@ -83,12 +83,20 @@ I believe that good software is built with **clean code**, **strong architecture
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ringga-dev&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=ringga-dev&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ringga-dev&show_icons=true&theme=tokyonight&count_private=true" width="100%" />
+</p>
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ringga-dev&show_icons=true&theme=tokyonight&count_private=true" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ringga-dev&layout=compact&theme=tokyonight" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ringga-dev&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ringga-dev&layout=compact&theme=tokyonight" width="100%" />
 </p>
 
 ---
